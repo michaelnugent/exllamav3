@@ -1,4 +1,4 @@
-name: Build Wheels & Release (Windows only)
+name: Build Wheels & Release (13)
 
 on:
   workflow_dispatch:
